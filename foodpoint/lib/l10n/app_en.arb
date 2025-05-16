@@ -1,0 +1,12 @@
+{
+  "@@locale": "en",
+  "appTitle": "Food Point",
+  "main": "Main",
+  "profile": "Profile",
+  "settings": "Settings",
+  "language": "Language",
+  "chooseLanguage": "Choose Language",
+  "russian": "Russian",
+  "english": "English",
+  "kazakh": "Kazakh"
+}

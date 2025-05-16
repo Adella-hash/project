@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "347161755157",
+    "project_id": "foodpoint-lira",
+    "storage_bucket": "foodpoint-lira.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347161755157:android:d1b43f78ac6015242ad81c",
+        "android_client_info": {
+          "package_name": "com.example.foodpoint"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhV4YBIwr5fukjt8G7AsfWM-7lzDfz9Ng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
